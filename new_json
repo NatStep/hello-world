@@ -4,6 +4,11 @@
    "address": {
        "streetAddress": "Хрещатик, 20, кв.10",
        "city": "Київ",
-       "postalCode": 252001
+       "postalCode": 252001,
    }
-  }
+   "phoneNumbers": [
+       "044 123-1234",
+       "044 123-4567"
+   ]
+}
+   
